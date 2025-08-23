@@ -1,0 +1,10 @@
+# Node
+auth-backend/node_modules/
+auth-backend/.env
+
+# Angular
+auth-frontend/node_modules/
+auth-frontend/dist/
+
+# Logs
+*.log
